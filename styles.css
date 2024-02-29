@@ -47,7 +47,7 @@ nav ul li a:hover {
 /* Стили для главного раздела */
 
 #hero {
-    background-image: url('https://avatars.mds.yandex.net/i?id=666ddad4fb3863dd2f7ee9e0c52fd517211f665c-9882580-images-thumbs&ref=rim&n=33&w=355&h=250'); /* Добавьте путь к вашему изображению */
+    background-image: url('https://avatars.mds.yandex.net/i?id=f218f3efdd512085c000a1f8f20cf0e75fb3fb26-12374505-images-thumbs&n=13'); /* Добавьте путь к вашему изображению */
     background-size: cover;
     color: #fff;
     text-align: center;
