@@ -3,18 +3,18 @@
     "id": 1,
     "name": "Кроссовки для бега",
     "price": 399.99,
-    "image": "images/1.jpg"
+    "image": "https://avatars.mds.yandex.net/get-mpic/5366650/img_id346772418503231902.jpeg/orig"
   },
   {
     "id": 2,
     "name": "Туфли из натуральной кожи",
     "price": 329.99,
-    "image": "images/2.jpg"
+    "image": "https://avatars.mds.yandex.net/i?id=9b3dd06ab2e37f58b861470abc1d0aa6b9e34453-8485874-images-thumbs&n=13"
   },
   {
     "id": 3,
     "name": "Сандалии на плоской подошве",
     "price": 349.99,
-    "image": "images/3.jpg"
+    "image": "https://images.asos-media.com/products/chernye-sandalii-na-ploskoj-platforme-raid-denise/11758702-1-blackpu?$XXL$"
   }
 ]
