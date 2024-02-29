@@ -93,6 +93,20 @@ nav ul li a:hover {
 .btn:hover {
     background-color: #7e7e4c; /* Измененный цвет фона при наведении */
 }
+#hero .btn {
+    background-color: #999373; /* Цвет фона кнопки */
+    color: #fff; /* Цвет текста кнопки */
+    padding: 15px 30px; /* Отступы внутри кнопки */
+    border-radius: 5px; /* Скругление углов */
+    font-weight: bold; /* Жирный текст */
+    text-decoration: none; /* Убрать подчеркивание ссылки */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Плавное изменение цвета */
+}
+
+#hero .btn:hover {
+    background-color: #7e7e4c; /* Цвет фона кнопки при наведении */
+    color: #fff; /* Цвет текста кнопки при наведении */
+}
 
 /* Стили для разделов обуви */
 
