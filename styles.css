@@ -101,12 +101,13 @@ nav ul li a:hover {
     font-weight: bold; /* Жирный текст */
     text-decoration: none; /* Убрать подчеркивание ссылки */
     transition: background-color 0.3s ease, color 0.3s ease; /* Плавное изменение цвета */
+    cursor: pointer; /* Изменение курсора при наведении */
 }
 
 #hero .btn:hover {
     background-color: #7e7e4c; /* Цвет фона кнопки при наведении */
-    color: #fff; /* Цвет текста кнопки при наведении */
 }
+
 
 /* Стили для разделов обуви */
 
