@@ -69,7 +69,8 @@ nav ul li a:hover {
     font-size: 48px;
     margin-bottom: 20px;
     font-weight: bold;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Добавляем тень */
+    color: #fff; /* Изменяем цвет текста на белый */
 }
 
 #hero p {
