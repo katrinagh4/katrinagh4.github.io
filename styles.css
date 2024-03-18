@@ -47,12 +47,13 @@ nav ul li a:hover {
 /* Стили для главного раздела */
 
 #hero {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_QGZ7lNxzwR3zfWPnELj5q2wR0L23jlqBpJCmvm1QJwVNJExXy45UFloxQRS13kBPio&usqp=CAU'); /* Добавьте путь к вашему изображению */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_QGZ7lNxzwR3zfWPnELj5q2wR0L23jlqBpJCmvm1QJwVNJExXy45UFloxQRS13kBPio&usqp=CAU');
     background-size: cover;
     color: #fff;
     text-align: center;
     padding: 100px 0;
     position: relative;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* добавляем тень */
 }
 
 #hero:before {
