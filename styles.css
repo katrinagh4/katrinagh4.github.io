@@ -47,7 +47,7 @@ nav ul li a:hover {
 /* Стили для главного раздела */
 
 #hero {
-    background-image: url('https://avatars.mds.yandex.net/i?id=c5c3ee1e68978be78b4d0eca489266ed237b25f9-5910573-images-thumbs&n=13'); /* Добавьте путь к вашему изображению */
+    background-image: url('https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/08/10135720/tendencias-cuidados-3.jpg'); /* Добавьте путь к вашему изображению */
     background-size: cover;
     color: #fff;
     text-align: center;
